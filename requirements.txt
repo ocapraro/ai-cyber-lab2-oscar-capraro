@@ -1,2 +1,4 @@
-# No third-party dependencies are required for this baseline.
-# The pipeline uses Python standard library only.
+# Core pipeline uses Python standard library only.
+# Notebook / EDA dependencies:
+pandas>=2.0
+matplotlib>=3.7
